@@ -1,8 +1,3 @@
-# \# Calculator Project
+# Calculator Project
 
-# 
-
-# This is the MAIN branch update.
-
-# 
-
+This project includes both MAIN and FEATURE updates together.
